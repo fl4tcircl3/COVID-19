@@ -1,6 +1,6 @@
 ---
 name: Report an Error (ENG)
-about: Report and error or missing data or documentation. Use this template if you are an English speaker
+about: Report an error, missing data or documentation. Use this template if you are an English speaker
 ---
 
  <!--
@@ -32,4 +32,4 @@ Type of issue:
 
 <!-- What data or information did you expect to find? -->
 
-**Actual:** <!-- What data or inforation is actually present / mising / stated? -->
+**Actual:** <!-- What data or information is actually present / missing / stated? -->
