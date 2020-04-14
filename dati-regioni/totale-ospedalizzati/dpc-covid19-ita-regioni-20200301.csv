@@ -1,0 +1,22 @@
+data,denominazione_regione,totale_ospedalizzati
+2020-03-01T17:00:00,Abruzzo,3
+2020-03-01T17:00:00,Basilicata,0
+2020-03-01T17:00:00,P.A. Bolzano,1
+2020-03-01T17:00:00,Calabria,0
+2020-03-01T17:00:00,Campania,4
+2020-03-01T17:00:00,Emilia-Romagna,140
+2020-03-01T17:00:00,Friuli Venezia Giulia,0
+2020-03-01T17:00:00,Lazio,3
+2020-03-01T17:00:00,Liguria,13
+2020-03-01T17:00:00,Lombardia,512
+2020-03-01T17:00:00,Marche,17
+2020-03-01T17:00:00,Molise,0
+2020-03-01T17:00:00,Piemonte,13
+2020-03-01T17:00:00,Puglia,1
+2020-03-01T17:00:00,Sardegna,0
+2020-03-01T17:00:00,Sicilia,1
+2020-03-01T17:00:00,Toscana,7
+2020-03-01T17:00:00,P.A. Trento,0
+2020-03-01T17:00:00,Umbria,0
+2020-03-01T17:00:00,Valle d'Aosta,0
+2020-03-01T17:00:00,Veneto,64
